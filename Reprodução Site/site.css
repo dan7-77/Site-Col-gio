@@ -1,0 +1,57 @@
+body{ margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+table{ width: 100%;
+height: 760px;
+background-image: url(fundo\ \(1\).png);
+background-size: 100%;
+}
+#roxa{ background-color: #3a0b63;}
+td { width: 25%;}
+#verde{ background-color: #89f668;
+      height: 200px
+}
+.coluna{
+    column-count:  ;
+}
+.text{
+    text-align: center;
+}
+.roxinho{
+    background-color: #5B1078;
+    width: 25%;
+}
+.divv{
+    width: 480%;
+    height: 316%;
+}
+.roxinho{
+    width: 480px; height: 311px ; 
+    font-size: 18px;
+    font-style: color #89f668;
+}
+
+#icones{
+    columns: 3;
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+    font-size: 32px;
+    font-style: color #89f668;
+}
+.rosa{
+    background-color: #fb45c7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
